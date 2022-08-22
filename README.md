@@ -5,9 +5,10 @@
 In this repository you will see this technologies and comments
 - NetCore.
 - ASP .NET. 
+- HMTL.
+- CSS.
 - C#. 
-- RAZOR.
-- BLAZOR
+- BLAZOR.
 - LINQ.
 - EntityFramework.
 - React.
