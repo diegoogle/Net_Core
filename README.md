@@ -2,7 +2,7 @@
 
 ### Introducing to .NEt Core MVC 
 
-In this repository you will see this technologies and comments
+In this repository you will see the technologies and comments I had been used recently
 - NetCore.
 - ASP .NET. 
 - HMTL.
